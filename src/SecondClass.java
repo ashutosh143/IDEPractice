@@ -5,7 +5,7 @@ public class SecondClass {
     }
 
     public static void newMethod(String[] args) {
-
+ System.out.println("Rawat");
     }
     //Just for the confirmation of master
 }
