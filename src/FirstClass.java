@@ -2,6 +2,8 @@ public class FirstClass {
     public static void main(String[] args) {
         System.out.println("First Class");
     }
-  //test
-  //Test2
+
+    public static void test(String[] args) {
+        //This is a test method
+    }
 }
