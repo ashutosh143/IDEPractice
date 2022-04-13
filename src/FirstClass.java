@@ -34,4 +34,10 @@ public class FirstClass {
         System.out.println("Ashutosh Ji");
         System.out.println("Rawat Ji");
     }
+
+    public static void F2(String[] args) {
+        System.out.println("Rawat");
+        System.out.println("Ashutosh Ji");
+        System.out.println("Rawat Ji");
+    }
 }
