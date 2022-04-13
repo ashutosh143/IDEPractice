@@ -17,12 +17,10 @@ public class FirstClass {
         System.out.println("Rawat Ji");
     }
 
-
-    public static void F21(String[] args) {
+    public static void F11(String[] args) {
         System.out.println("Rawat");
         System.out.println("Ashutosh Ji");
         System.out.println("Rawat Ji");
     }
-
 
 }
