@@ -3,4 +3,9 @@ public class SecondClass {
         System.out.println("Ashutosh");
 
     }
-   //Just for the confirmation of master
+
+    public static void newMethod(String[] args) {
+
+    }
+    //Just for the confirmation of master
+}
