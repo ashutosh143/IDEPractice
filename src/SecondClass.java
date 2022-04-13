@@ -3,5 +3,4 @@ public class SecondClass {
         System.out.println("Ashutosh");
 
     }
-    //new line
-}
+   //Just for the confirmation of master
